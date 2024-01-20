@@ -49,6 +49,7 @@ article p{
     background-image: url(../imagens/background001.jpg);
     background-size: cover;
     background-attachment: fixed;
+    background-repeat: no-repeat;
     background-position: center center;
     box-shadow: inset 0px 0px 25px rgba(0, 0, 0, 0.600);
 }
@@ -61,6 +62,7 @@ article p{
     background-image: url(../imagens/background002.jpg);
     background-size: cover;
     background-attachment: fixed;
+    background-repeat: no-repeat;
     background-position: center center;
     box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.600);
 }
