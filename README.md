@@ -1,5 +1,7 @@
-Projeto Cordel Moderno
+Desafio - Cordel Moderno
 
-Curso HTML 5 e CSS 3 - CursoemVideo
+Tecnologias:
+HTML 5
+CSS 3
 
 finalizado no dia 20/01/2024
